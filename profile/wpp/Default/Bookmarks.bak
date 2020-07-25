@@ -1,0 +1,69 @@
+{
+   "checksum": "18ba7c337c621d69ab7dafb94d42dad8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13233873341216274",
+               "guid": "5e082e4e-4708-4603-93ce-b6980a50f5a2",
+               "id": "5",
+               "name": "Reference - WhatsApp Business API",
+               "type": "url",
+               "url": "https://developers.facebook.com/docs/whatsapp/api/reference"
+            }, {
+               "date_added": "13233873376093823",
+               "guid": "a9871cb4-ec0d-401b-b4ef-8c1bac9cc1bf",
+               "id": "7",
+               "name": "Getting Started - WhatsApp Business API",
+               "type": "url",
+               "url": "https://developers.facebook.com/docs/whatsapp/getting-started#setup"
+            }, {
+               "date_added": "13233873380435042",
+               "guid": "2a25a46b-5273-4280-9caa-1c4478761375",
+               "id": "8",
+               "name": "Installation - WhatsApp Business API",
+               "type": "url",
+               "url": "https://developers.facebook.com/docs/whatsapp/installation"
+            }, {
+               "date_added": "13233873383420547",
+               "guid": "3408869f-7fb8-42bf-8bbd-933f8c4398fc",
+               "id": "9",
+               "name": "Installation - WhatsApp Business API",
+               "type": "url",
+               "url": "https://developers.facebook.com/docs/whatsapp/installation#dev"
+            } ],
+            "date_added": "13233873373198504",
+            "date_modified": "13233873383420547",
+            "guid": "14de41fe-5b07-4f75-8026-77fc32d86a26",
+            "id": "6",
+            "name": "WhatsApp Business",
+            "type": "folder"
+         } ],
+         "date_added": "13233871647955716",
+         "date_modified": "13233873341216274",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13233871647955723",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Outros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13233871647955724",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Marcadores telemóvel",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

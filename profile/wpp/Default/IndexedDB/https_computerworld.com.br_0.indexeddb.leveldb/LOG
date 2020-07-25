@@ -1,0 +1,5 @@
+2020/05/13-21:16:19.966 75ce Reusing MANIFEST /home/nemo/Dev/src/boris/profile/wpp/Default/IndexedDB/https_computerworld.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/13-21:17:52.712 75b9 Level-0 table #5: started
+2020/05/13-21:17:52.743 75b9 Level-0 table #5: 4635 bytes OK
+2020/05/13-21:17:52.794 75b9 Delete type=0 #3
+2020/05/13-21:17:52.795 75b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,24 @@
+
+# Created by https://www.gitignore.io/api/database,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=database,visualstudiocode
+
+### Database ###
+*.accdb
+*.db
+*.dbf
+*.mdb
+*.pdb
+*.sqlite3
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.gitignore.io/api/database,visualstudiocode
