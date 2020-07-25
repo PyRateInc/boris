@@ -3,6 +3,7 @@ import requests
 import json
 import random
 
+
 def dolar():
 	try:
 		requsd = requests.get("https://economia.awesomeapi.com.br/all")

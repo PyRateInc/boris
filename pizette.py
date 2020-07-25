@@ -15,6 +15,7 @@ wikipedia.set_lang('pt')
 import pyautogui
 # from webdriver_manager.chrome import ChromeDriverManager
 
+
 def inbox():
 	try:
 		vd = pyautogui.locateCenterOnScreen(r'find.bmp')

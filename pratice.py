@@ -2,7 +2,6 @@ from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 from chatterbot.trainers import ListTrainer
 
-
 def pratice(message):
 	answer = "Como respondo isso? me ensine com *;texto com a resposta* ou *!* para desativar o aprendizado para:" + str(message)
 	sendMessage(answer)
