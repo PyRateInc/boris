@@ -2,6 +2,7 @@ from selenium import webdriver
 import os
 from pizette import *
 
+
 """
 	Funcao que identifica a ultima mensagem da conversa, de cada conversa.
 """

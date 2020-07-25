@@ -3,7 +3,6 @@ import requests
 import json
 import random
 
-
 def news():
 	try:
 		req = requests.get('https://newsapi.org/v2/top-headlines?country=br&category=technology&apiKey=f5890e93feef4c049ea5aae620f34174')

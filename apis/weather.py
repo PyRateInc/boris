@@ -3,7 +3,6 @@ import requests
 import json
 import random
 
-
 def weather():
 	try:
 		#descoberta cidade
